@@ -1,0 +1,77 @@
+para ver la definicion del argumento:
+    g + d;
+para ir a la pagina:
+    g + f
+para ir atras 
+    ctrl + o 
+para ir adelante:
+    ctrl + i
+
+#####################################
+para eliminar solo una linea.
+  d + w
+deshacer 
+ u
+
+para eliminar toda la linea 
+    d + $
+
+###################################
+Elimina la linea completamente.
+
+    d + d
+
+    d + e
+
+    d +  num + e or w 
+
+Pegar la linea abajo.
+    p
+
+    Pegar una linea arriba
+
+para cambiar solo un caracter 
+    r + caracter unico a cambiar.
+
+delete toda la palabra
+    c + w
+detele all word del cursos 
+    c + w
+
+
+ir arriba 
+gg
+ir al final 
+shift g
+
+num + G
+
+
+
+para buscar /mas String 
+
+para desplazarse entre bsuquedas 
+n 
+
+para ver donde termina una llave, corchete o parentesis.
+%
+
+c + % selecciona todo lo que este dentro.
+
+para ir al comienzo de la linea 0.
+
+para susutituir todas las ocurrencias 
+
+:s/palabraasustituir/sustituyente/ g el tipo de alzance es g es decir global 
+
+para abrir una linea sin importar el lugar del cursos 
+o 
+para abrir una linea arriba shift + o 
+
+modo visual selecciona todo hasta indicar odnde es el final.
+v
+
+x para eliminar
+
+para copiar y 
+para pegar la p 
